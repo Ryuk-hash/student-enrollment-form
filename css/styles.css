@@ -1,0 +1,45 @@
+/* --------------------------- BASIC INITIALIZATION & SETUP --------------------------- */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 18px;
+  font-family: 'Lato', 'sans-serif';
+  line-height: 150%;
+}
+
+input {
+  padding: 5px;
+  margin-left: 10px;
+  border: 2px solid rgb(56, 56, 56);
+  border-radius: 10px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+table td {
+  font-size: 80%;
+}
+
+/* --------------------------- TOP-HEADING --------------------------- */
+
+.left-content,
+.right-content {
+  margin: 20px 30px;
+}
+
+#main-heading {
+  background-color: green;
+  border: 2px solid black;
+}
+
+.left-content {
+  border-right: 3px solid black;
+}
