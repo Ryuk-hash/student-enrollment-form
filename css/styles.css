@@ -28,6 +28,16 @@ table td {
   font-size: 80%;
 }
 
+footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: green;
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+}
+
 /* --------------------------- TOP-HEADING --------------------------- */
 
 .left-content,
